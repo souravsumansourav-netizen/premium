@@ -7,22 +7,22 @@ const occasionItems = [
   {
     label: "A Proposal",
     href: "/collections/engagement",
-    image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=90",
+    image: "https://i.pinimg.com/1200x/f8/4d/09/f84d0900e8122011b9f3074562bba3d4.jpg?w=800&q=90",
   },
   {
     label: "Our Anniversary",
     href: "/collections/anniversary",
-    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=90",
+    image: "https://i.pinimg.com/1200x/c3/29/3b/c3293b9cc0f1b2c2a15c05dbedb17a6c.jpg?w=800&q=90",
   },
   {
     label: "A Self-Gift",
     href: "/collections/self-gift",
-    image: "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=90",
+    image: "https://i.pinimg.com/1200x/b8/4d/80/b84d80d958f4208d3c9d16c4907bd39f.jpg?w=800&q=90",
   },
   {
     label: "An Heirloom",
     href: "/collections/heirloom",
-    image: "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?w=800&q=90",
+    image: "https://i.pinimg.com/736x/a1/0d/51/a10d5168e5a39d263215b7deb11c46c6.jpg?w=800&q=90",
   },
 ]
 
